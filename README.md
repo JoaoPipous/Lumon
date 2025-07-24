@@ -83,7 +83,6 @@ graph TD
 - HTML5 + CSS3
 - TailwindCSS
 - SweetAlert2
-- Google Cloud (for deployment)
 
 ### 🛠️ Tools
 
@@ -109,11 +108,11 @@ graph TD
 
 Project developed by:
 
-- João Deliberador  
-- Eduardo Czigler  
-- Leandro Hideki  
-- Pedro Liboni  
-- Graciele Miki Sazaka  
+- [João Deliberador ](https://github.com/JoaoPipous)
+- [Eduardo Czigler](https://github.com/Eduardoczi)    
+- [Leandro Hideki (Leleco04)](https://github.com/Leleco04)  
+- [Pedro Liboni ](https://github.com/Libonico)  
+- [Graciele Miki Sazaka (mikisazaka)](https://github.com/mikisazaka)
 
 ## 🤝 Acknowledgements
 
